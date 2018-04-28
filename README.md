@@ -1,0 +1,1 @@
+# QS-c-OpenMP
